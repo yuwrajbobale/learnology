@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learnology/static/css/main.97def246.css",
+    "main.js": "/learnology/static/js/main.a48e16da.js",
+    "static/js/787.e55f9c81.chunk.js": "/learnology/static/js/787.e55f9c81.chunk.js",
+    "static/media/HomeDesign.gif": "/learnology/static/media/HomeDesign.1c700c0909270e9e0eaf.gif",
+    "static/media/About-Img.gif": "/learnology/static/media/About-Img.c94ae98bdf78236ea553.gif",
+    "static/media/Software.png": "/learnology/static/media/Software.3e5f01faf1b5c6d7bcec.png",
+    "static/media/data-analytics.png": "/learnology/static/media/data-analytics.427f776fd8375fc23ab2.png",
+    "static/media/digital-marketing.jpg": "/learnology/static/media/digital-marketing.86409a88487e1a90f9c8.jpg",
+    "static/media/AI.jpg": "/learnology/static/media/AI.72f2780a6f4be279a93e.jpg",
+    "static/media/Android.jpg": "/learnology/static/media/Android.7153e4241136fbd174be.jpg",
+    "static/media/web-design.jpg": "/learnology/static/media/web-design.397445dd5c97cbfca59a.jpg",
+    "index.html": "/learnology/index.html",
+    "main.97def246.css.map": "/learnology/static/css/main.97def246.css.map",
+    "main.a48e16da.js.map": "/learnology/static/js/main.a48e16da.js.map",
+    "787.e55f9c81.chunk.js.map": "/learnology/static/js/787.e55f9c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97def246.css",
+    "static/js/main.a48e16da.js"
+  ]
+}
